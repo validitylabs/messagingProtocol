@@ -1,1 +1,1 @@
-### This project now lives at https://github.com/validitylabs/hopr
+### This project moved to https://github.com/hoprnet
